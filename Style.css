@@ -110,8 +110,9 @@ div.score p {
 	font-size: 64px;
 	color: #56546b;
 }
-div.score h3 {
+div.score h1 {
 	color: #616cbf;
+	font-size: 18px;
 }
 
 /*main*/
